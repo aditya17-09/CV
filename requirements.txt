@@ -1,0 +1,6 @@
+pandas
+seabron
+matplotlib
+sklearn
+cv2
+#-e .
